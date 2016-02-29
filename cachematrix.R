@@ -1,6 +1,6 @@
 ## https://github.com/khld11/ProgrammingAssignment2.git
 ## Week 3 Programming Assignment 2
-## My first SHA-1 hash commit : f34f5cab4c9e09f24cfe345f9b8a898c76e217c6
+##
 
 ## Following function calculates the special "matrix"
 ## load the value for matrix/inverse matrix

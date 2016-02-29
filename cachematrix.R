@@ -1,6 +1,6 @@
 ## https://github.com/khld11/ProgrammingAssignment2.git
 ## Week 3 Programming Assignment 2
-##
+## commit SHA-1 hash identifier :d4a7664758de3c3e762edead0fd074b445f5f7d9
 
 ## Following function calculates the special "matrix"
 ## load the value for matrix/inverse matrix
